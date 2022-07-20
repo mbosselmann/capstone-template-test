@@ -1,4 +1,5 @@
 import Button from '../Button/Button.js';
+import styled from 'styled-components';
 
 export default function Card() {
   return (
