@@ -6,6 +6,9 @@ export default function Button() {
 
 const StyledButton = styled.button`
   border: none;
-  background-color: teal;
+  background-color: black;
+  color: white;
   font-size: 3rem;
+  border-radius: 15px;
+  padding: 8px;
 `;
